@@ -4,7 +4,7 @@
 
 Vue Markdown component based on marked library 📚📙
 
-## [![CodeQL](https://github.com/mjorgegulab/vue-markdown-wrapper/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/mjorgegulab/vue-markdown-wrapper/actions/workflows/github-code-scanning/codeql) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/96b6ee9771a44138bd3ed6460f210c5d)](https://app.codacy.com/gh/mjorgegulab/vue-markdown-wrapper/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Known Vulnerabilities](https://snyk.io/test/github/mjorgegulab/vue-markdown-wrapper/badge.svg)](https://snyk.io/test/github/mjorgegulab/vue-markdown-wrapper)
+## [![CodeQL](https://github.com/cipher-fox/vue-markdown-wrapper/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/cipher-fox/vue-markdown-wrapper/actions/workflows/github-code-scanning/codeql) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/96b6ee9771a44138bd3ed6460f210c5d)](https://app.codacy.com/gh/cipher-fox/vue-markdown-wrapper/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Known Vulnerabilities](https://snyk.io/test/github/cipher-fox/vue-markdown-wrapper/badge.svg)](https://snyk.io/test/github/cipher-fox/vue-markdown-wrapper)
 
 ## Install
 
