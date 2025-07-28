@@ -63,4 +63,4 @@ PRs and Issues are welcome. 😘
 
 ## License
 
-Copyright © thewolfx41 - Released under the MIT License.
+Copyright © CypherFox - Released under the MIT License.
