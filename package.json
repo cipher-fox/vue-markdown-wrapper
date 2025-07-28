@@ -1,17 +1,17 @@
 {
   "name": "vue-markdown-wrapper",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "author": {
     "name": "Marc Jorge Gonzalez",
-    "url": "https://github.com/mjorgegulab"
+    "url": "https://github.com/cipher-fox"
   },
   "license": "MIT",
   "description": "Vue Markdown component based on marked library",
   "bugs": {
-    "url": "https://github.com/mjorgegulab/vue-markdown-wrapper/issues"
+    "url": "https://github.com/cipher-fox/vue-markdown-wrapper/issues"
   },
-  "repository": "github:mjorgegulab/vue-markdown-wrapper",
-  "homepage": "https://github.com/mjorgegulab/vue-markdown-wrapper",
+  "repository": "github:cipher-fox/vue-markdown-wrapper",
+  "homepage": "https://github.com/cipher-fox/vue-markdown-wrapper",
   "main": "./dist/vue-markdown.umd.js",
   "module": "./dist/vue-markdown.mjs",
   "types": "./dist/index.d.ts",
